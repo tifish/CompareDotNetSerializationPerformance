@@ -1,0 +1,3 @@
+Read Json using 1234 ms
+Read Yaml using 3432 ms
+Read Toml using 4089 ms
